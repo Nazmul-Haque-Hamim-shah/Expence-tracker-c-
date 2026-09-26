@@ -21,7 +21,7 @@ A simple, console-based **Income and Expense Tracking System** built using **C++
 2. Open your terminal or command prompt.
 3. Compile the code using a C++ compiler (like `g++`):
    ```bash
-   g++ main.cpp -o ExpenseTracker
+   g++ expense_tracker.cpp -o ExpenseTracker
    ```
 4. Run the compiled application:
    ```bash
